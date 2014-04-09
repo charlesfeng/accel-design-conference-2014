@@ -23,12 +23,9 @@ Hosted by Vas Natarajan, Accel Partners
 Soleio Cuervo, Head of Design, Dropbox; Julie Zhuo, Director of Product Design, Facebook  
 Hosted by Ben Blumenfeld, Co-Director, Designer Fund
 
-2:20 pm -- **[Spotlight on Lynda Weinman](https://github.com/charlesfeng/accel-design-conference-2014/blob/master/spotlight-lynda-weinman.md)**  
-Lynda Weinman, Co-Founder, lynda.com
-
 2:40 pm -- **[Data-Driven Design v. Design Intuition](https://github.com/charlesfeng/accel-design-conference-2014/blob/master/data-driven-design-v-design-intuition.md)**  
 Bradford Cross, Founder & CEO, Prismatic; Brynn Evans, Lead UX Designer, Google; David Gauquelin, Head of Design, Prezi  
-Hosted by Ben Blumenfeld, Co-Director, Designer Fund
+Hosted by Braden Kowitz, Design Partner, Google Ventures
 
 3:40 pm -- **[Designing Discovery & The One-Touch Checkout](https://github.com/charlesfeng/accel-design-conference-2014/blob/master/designing-discovery-the-one-touch-checkout.md)**  
 Andy Dunn, Founder & CEO, Bonobos; Sahil Lavingia, Founder & CEO, Gumroad; Sam MacDonnell, CTO, Hotel Tonight  
