@@ -1,6 +1,7 @@
 ### Fireside Chat: Android Design
 
-**Matias Duarte, VP of Design, Android; Josh Topolsky, Editor-in-Chief, The Verge**
+**Matias Duarte, VP of Design, Android**  
+**Hosted by Josh Topolsky, Editor-in-Chief, The Verge**
 
 _Design means different things to different people: someone in code, in illustrator, ... what do you think?_
 
