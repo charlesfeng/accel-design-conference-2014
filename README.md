@@ -7,7 +7,7 @@ Matias Duarte, VP of Design, Android; Josh Topolsky, Editor-in-Chief, The Verge
 Mia Blume, Head of Design, Pinterest; Shalin Admin, Head of Design, Uber; Peter Merholz, Head of Design, Groupon
 Hosted by Enrique Allen, Co-Director, Designer Fund
 
-10:20 am -- **Designing for the Enterprise](https://github.com/charlesfeng/accel-design-conference-2014/blob/master/designing-for-the-enterprise.md)**  
+10:20 am -- **[Designing for the Enterprise](https://github.com/charlesfeng/accel-design-conference-2014/blob/master/designing-for-the-enterprise.md)**  
 DJ Patil, VP of Product, RelateIQ; Karen Cross, Design Manager, Atlassian
 
 All errors, omissions, and/or misrepresentations are mine.
