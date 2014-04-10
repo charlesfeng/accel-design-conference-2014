@@ -63,4 +63,6 @@ Jeff: Ask what tooling you need, whether you need tech that scales out, what kin
 
 _What are your words of wisdom for people in the audience who love design but aren't that familiar with data viz?_
 
-Jeff: 
+Jeff: Don't be scared; be receptive to constructive criticism. Start from basic principles and build an aesthetic along the way. Competent design is something most people are capable of if they dedicate themselves to it.
+
+Patrik: There are many great tools that can guide you along the right path: how you use a chart, is it a good chart to use. Start with data you're familiar with.
